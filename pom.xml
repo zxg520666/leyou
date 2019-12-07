@@ -12,6 +12,7 @@
         <module>ly-gateway</module>
         <module>ly-item</module>
         <module>ly-commom</module>
+        <module>ly-upload</module>
     </modules>
     <packaging>pom</packaging>
     <parent>
